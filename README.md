@@ -1,4 +1,4 @@
-# The Square Lead
+# Automated Vendor/Supplier Lead Discovery System Using Live Data Sources and Trust-Based Scoring 
 
 A live vendor/lead discovery tool. It scrapes public **government procurement
 and MSME registry sources**, turns what it finds into structured leads, and
